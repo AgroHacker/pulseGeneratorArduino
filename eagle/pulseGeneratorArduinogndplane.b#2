@@ -2177,9 +2177,9 @@ design rules under a new name.</description>
 <element name="R4" library="resistor" package="R0402" value="0" x="49.4" y="33.66" rot="R225"/>
 <element name="R5" library="resistor" package="R0402" value="0" x="23.9" y="38.4" rot="R270"/>
 <element name="C37" library="resistor" package="C1005" value="0.1uF" x="22.5" y="41.8" rot="R180"/>
-<element name="R6" library="resistor" package="R0402" value="0" x="40.3" y="43.4" rot="R45"/>
-<element name="R7" library="resistor" package="R0402" value="0" x="42.4" y="41.2" rot="R45"/>
-<element name="R8" library="resistor" package="R0402" value="0" x="38.3" y="45.2" rot="R45"/>
+<element name="R6" library="resistor" package="R0402" value="0" x="40.4" y="43.4" rot="R45"/>
+<element name="R7" library="resistor" package="R0402" value="0" x="42.5" y="41.3" rot="R45"/>
+<element name="R8" library="resistor" package="R0402" value="0" x="38.4" y="45.3" rot="R45"/>
 </elements>
 <signals>
 <signal name="GND">
@@ -2580,12 +2580,13 @@ design rules under a new name.</description>
 <contactref element="R8" pad="1"/>
 <contactref element="R6" pad="1"/>
 <contactref element="R7" pad="1"/>
-<wire x1="41.940378125" y1="40.740378125" x2="39.840378125" y2="42.940378125" width="0.55" layer="1"/>
-<wire x1="39.840378125" y1="42.940378125" x2="38.140378125" y2="44.740378125" width="0.55" layer="1"/>
+<wire x1="42.040378125" y1="40.840378125" x2="39.940378125" y2="42.940378125" width="0.55" layer="1"/>
+<wire x1="39.940378125" y1="42.940378125" x2="38.140378125" y2="44.740378125" width="0.55" layer="1"/>
 <wire x1="37.1" y1="45.9" x2="37.940378125" y2="45.059621875" width="0.55" layer="1"/>
-<wire x1="37.940378125" y1="45.059621875" x2="37.840378125" y2="44.740378125" width="0.3048" layer="1"/>
-<wire x1="37.840378125" y1="44.740378125" x2="38.140378125" y2="44.740378125" width="0.3048" layer="1"/>
-<wire x1="41.940378125" y1="40.740378125" x2="41.98" y2="40.13" width="0.6096" layer="1"/>
+<wire x1="37.940378125" y1="45.059621875" x2="37.940378125" y2="44.840378125" width="0.3048" layer="1"/>
+<wire x1="37.940378125" y1="44.840378125" x2="38.040378125" y2="44.740378125" width="0.3048" layer="1"/>
+<wire x1="38.040378125" y1="44.740378125" x2="38.140378125" y2="44.740378125" width="0.3048" layer="1"/>
+<wire x1="42.040378125" y1="40.840378125" x2="41.98" y2="40.13" width="0.6096" layer="1"/>
 <wire x1="40.18" y1="40.13" x2="39.6" y2="39.1" width="0.6096" layer="1"/>
 <wire x1="37.375" y1="40.5" x2="40.18" y2="40.5" width="0.6096" layer="1"/>
 <wire x1="40.18" y1="40.5" x2="40.18" y2="40.13" width="0.55" layer="1"/>
